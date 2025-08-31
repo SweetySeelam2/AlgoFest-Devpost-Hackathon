@@ -323,7 +323,7 @@ Solo: Sweety Seelam
 
 - [GitHub](https://github.com/SweetySeelam2)                                                                                                   
 
-- [LinkedIn](https://linkedin.com/in/sweetyseelam2)                                                                                                            
+- [LinkedIn](https://www.linkedin.com/in/sweetyrao670/))                                                                                                            
 
 ---
 
