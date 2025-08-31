@@ -1,0 +1,28 @@
+.ipynb_checkpoints/
+.DS_Store
+Thumbnail.png
+Video-Demo-Notes.txt
+.pytest_cache
+# Ignore venv
+.venv/
+
+# Ignore all results by default
+results/*
+
+# But keep these curated results
+!results/summary_sa10.md
+!results/runtime_vs_n.png
+!results/ablation_n250.md
+!results/routes_n250_k20_cap100_seed42_sa20_demo_20250831-145733.png
+!results/run_n250_k20_cap100_seed42_sa20_demo_20250831-145733.json
+
+# Ignore intermediate sweeps and ablations
+results/run_ablation_*.json
+results/sweep_*.csv
+results/exp_demo/
+results/routes_*.png
+results/run_n250_*.json
+
+# Logs and cache
+__pycache__/
+*.pyc
