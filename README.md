@@ -305,7 +305,7 @@ CW → CW+Local removes edge crossings and balances load (small cost drop). Addi
 
 - GitHub Project Repository: https://github.com/SweetySeelam2/AlgoFest-Devpost-Hackathon
 
-- Video Demo: 
+- Video Demo: https://youtu.be/cwP7CW0rYoI
 
 ---
 
