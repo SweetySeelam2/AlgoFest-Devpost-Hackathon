@@ -1,4 +1,4 @@
-# FleetFlow — A Time-Budgeted CVRP/VRPTW Solver with Local Search + Simulated Annealing
+# FleetFlow - A Time-Budgeted CVRP/VRPTW Solver with Local Search + Simulated Annealing
 
 **One-liner:** Minimal, original solver for Capacitated Vehicle Routing with optional Time Windows.  
 
